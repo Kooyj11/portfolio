@@ -9,14 +9,14 @@ export default function Portfolio() {
         <h1 className="text-5xl font-bold text-slate-900">Koo Yu Jian</h1>
 
         {/* EDIT: Your job title or tagline */}
-        <p className="text-xl text-indigo-600 font-medium">Aspiring Data Scientist</p>
+        <p className="text-xl text-indigo-600 font-medium">Data Analytics</p>
 
         {/* Contact links */}
         <div className="flex justify-center gap-6 text-sm text-slate-500">
 
           {/* EDIT: Your email address */}
           <a href="mailto:kuohong@netizenexperience.com" className="hover:text-indigo-600 transition-colors">
-            kuohong@netizenexperience.com
+            yujian0515@gmail.com
           </a>
 
           {/* EDIT: Your GitHub URL */}
